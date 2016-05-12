@@ -51,7 +51,7 @@ int urlType;
 // Replace these two character strings with the name and
 // password of your WiFi network.
 const char mySSID[] = "bullwinkle";
-const char myPSK[] = "ieQu0ahm";
+const char myPSK[] = "anypassword";
 
 char json[128] = {0}, uson[128]={0};
 
